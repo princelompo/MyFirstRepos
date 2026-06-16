@@ -1,2 +1,1 @@
-print
-Hello world
+Première version du script principal
